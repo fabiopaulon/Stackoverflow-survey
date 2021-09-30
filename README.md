@@ -11,7 +11,9 @@
  ### Questions
  
  A: "Do employees of smaller companies earn overall less than those working for bigger companies?"
+ 
  B: "Job satisfaction equals bigger salary?"
+ 
  C: "What is the influence Job satisfaction and Job seeking factors into Job seeking status?"
  
   
