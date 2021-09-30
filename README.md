@@ -23,7 +23,7 @@
  
  ### Folder Structure
  
- |___Stackoverflow-survey
+ 	|___Stackoverflow-survey
  		|___ README.md
 		|___ Stackoverflow Survey - Job Satisfaction, Compensation and Job Seek factors.ipynb
 		|___ .gitignore
